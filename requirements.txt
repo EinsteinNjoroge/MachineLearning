@@ -34,7 +34,7 @@ six==1.13.0
 sklearn==0.0
 tb-nightly==2.1.0a20191202
 tensorboard==2.0.2
-tensorflow==2.0.0
+tensorflow==2.5.0
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 tf-estimator-nightly==2.0.0.dev2019120209
